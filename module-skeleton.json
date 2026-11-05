@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-options-and-customization-flutter",
+  "capabilityKey": "planned:ecommerce:options-and-customization",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_options_and_customization_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/options-and-customization.md",
+  "presentationPlan": "projects/ecommerce/flutter/options-and-customization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
